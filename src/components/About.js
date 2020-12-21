@@ -20,13 +20,14 @@ class About extends Component {
           currently attending their Full Stack Web Development Bootcamp to be completed in January 2021. I have a
           passion for problem-solving and goal completion. Looking
           forward to learning, growing, and applying my new found skills! Cheers
-          to the moving into the next chapter of my career!
+          to moving into the next chapter of my career!
                 </p>
                 <p><strong>Technical Skills:</strong>
                 
                   HTML, CSS, Jascript, Jquery, Visual Basic, MySQL, MongoDB, Sequelize, Web APIs, Microsoft Office, Power BI, Oracle E-Business SUite, Git Bash, Heroku, AJAX, Node.JS, React, Express.js, Command Line Interface (CLI), ORM, MERN
                 
                 </p>
+                
           </div>
 
           </div>
