@@ -13,7 +13,7 @@ class About extends Component {
           <div className="row">
           <div className="col-lg-3">
 
-          <img src="../images/ShawandaPic.jpg" alt="pic" width="100%"  className="p-2"/>
+          <img src="/images/ShawandaPic.jpg" alt="pic" width="100%"  className="p-2"/>
         </div>
         <div className="col-lg-9">
           <p >Greetings! My name is Shawanda Ford. I earned a degree in Management Information Systems from UNCC and I am
